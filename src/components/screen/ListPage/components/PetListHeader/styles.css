@@ -1,0 +1,16 @@
+.pet-list-header {
+    width: 1080px;
+    background-color: blue;
+
+    justify-content: space-between;
+}
+
+.pet-list-header .header-option-item {
+    width: 50%;
+    background-color: olive;
+}
+
+.pet-list-header .selected-header-option-item {
+    width: 50%;
+    background-color: yellow;
+}
