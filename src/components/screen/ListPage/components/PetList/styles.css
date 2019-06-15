@@ -2,3 +2,9 @@
     width:  1080px;
     background-color: red;
 }
+
+@media (max-width: 1080px) {
+    .pet-list-wrapper {
+        width: 100%
+    }
+}

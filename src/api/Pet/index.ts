@@ -1,7 +1,7 @@
 import {GENDER} from "../../constant";
 
 export interface Pet {
-    id: string,
+    _id: string,
     imageUrl: string,
     age: number,
     name: string,
