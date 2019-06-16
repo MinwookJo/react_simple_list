@@ -1,16 +1,31 @@
 .pet-list-header {
     width: 1080px;
-    background-color: blue;
 }
 
 .pet-list-header .header-option-item {
-    background-color: olive;
     width: 50%;
+    margin-bottom: 100px;
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
 }
 
-.pet-list-header .selected-header-option-item {
-    background-color: yellow;
-    width: 50%;
+.pet-list-header .header-option-item .selected-label{
+    font-size: 26px;
+    font-weight: bold;
+
+    border-bottom: black solid 1px;
+
+}
+
+.pet-list-header .header-option-item .label{
+    font-size: 25px;
+}
+
+.pet-list-header .header-option-item .image{
+    width: 50px;
+    height: 50px;
 }
 
 @media (max-width: 1080px) {

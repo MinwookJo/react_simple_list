@@ -4,6 +4,7 @@ import PetListHeader from "./components/PetListHeader";
 import './styles.css';
 
 interface State {
+    // 현재 선택된 타입
     currentSelectedPetType: PetType,
 }
 
@@ -21,6 +22,7 @@ const initialState: State = {
 class ListPage extends React.Component<Props, State> {
     state = initialState;
 
+    // Header Option 이 바뀔 때 호출 될 함수
     onChangeHeaderOption = (select: PetType) => {
         this.setState({currentSelectedPetType: select})
     };

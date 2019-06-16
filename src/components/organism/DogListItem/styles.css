@@ -1,0 +1,48 @@
+.dog-list-item {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.dog-list-item .wrapper {
+    width: 320px;
+    margin-bottom: 10px;
+}
+
+.dog-list-item .text-section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+    padding-left: 20px;
+}
+
+.dog-list-item .content {
+    padding-left: 20px;
+}
+
+.dog-list-item .title {
+    font-size: 25px;
+}
+
+.dog-list-item .id {
+    color: grey;
+}
+
+.dog-list-item .gender {
+    width: 30px;
+    height: 30px;
+}
+
+@media (max-width: 662px) {
+    .dog-list-item {
+        flex-direction: column;
+        align-items: center;
+        justify-content: flex-start;
+    }
+
+    .dog-list-item .text-section {
+        padding-bottom: 20px;
+        padding-left: 0;
+    }
+}

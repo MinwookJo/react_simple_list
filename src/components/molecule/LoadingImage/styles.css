@@ -1,0 +1,28 @@
+.wait {
+    z-index: 100;
+    position: fixed;
+    top: 0;
+    left: 0;
+
+    background: rgba(255, 255, 255, 0.5);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100vw;
+    height: 100vh;
+}
+
+.wait .loading-img {
+    width: 10%;
+    transition: transform 3s;
+    animation: rotate360 3s infinite;
+}
+
+@keyframes rotate360 {
+    0% {
+        transform: rotate(0deg);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
+}

@@ -9,6 +9,7 @@ interface Props {
     currentSelectedPetType: PetType
 }
 
+// 현재 선택된 셀렉트 펫 타입에 맞는 리스트를 렌더링함
 class PetList extends React.Component<Props> {
 
     _renderFlexible = (currentPet: PetType) => {

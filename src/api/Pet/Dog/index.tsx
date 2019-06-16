@@ -4,7 +4,7 @@ import {Pet} from "../index";
 
 export interface Dog extends Pet{
 }
-
+// get dog data
 export const fetchDogs = async () => {
     return(
         Axios.get(SERVER_URL + '/dogs').then(
@@ -13,10 +13,6 @@ export const fetchDogs = async () => {
                     throw new Error('No Dogs');
                 }
                 return response.data
-            }
-        ).catch(
-            (err) => {
-                console.log('Network Error', err);
             }
         )
     );
