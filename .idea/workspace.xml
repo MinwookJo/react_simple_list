@@ -2,22 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0f3732cf-377e-4ce6-afa7-9d32333891b0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/organism/CatListItem/index.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/organism/DogListItem/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/api/Pet/Cat/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/api/Pet/Cat/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/api/Pet/Dog/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/api/Pet/Dog/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/api/Pet/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/api/Pet/index.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/molecule/CatListItem/index.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/molecule/DogListItem/index.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/organism/CatList/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/organism/CatList/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/organism/DogList/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/organism/DogList/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/screen/ListPage/components/PetList/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/screen/ListPage/components/PetList/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/screen/ListPage/components/PetList/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/screen/ListPage/components/PetList/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/screen/ListPage/components/PetListHeader/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/screen/ListPage/components/PetListHeader/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/screen/ListPage/components/PetListHeader/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/screen/ListPage/components/PetListHeader/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/screen/ListPage/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/screen/ListPage/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/constant/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/constant/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/node_modules/" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -30,7 +15,29 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="114">
+                <caret line="6" column="18" lean-forward="true" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="16" column="61" lean-forward="true" selection-start-line="16" selection-start-column="61" selection-end-line="16" selection-end-column="61" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -115,6 +122,7 @@
         <option value="$PROJECT_DIR$/src/components/atom/ImageBox/index.tsx" />
         <option value="$PROJECT_DIR$/src/components/atom/Label/index.tsx" />
         <option value="$PROJECT_DIR$/src/constant/index.tsx" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -141,6 +149,33 @@
               <item name="React_Simple_List" type="b2602c69:ProjectViewProjectNode" />
               <item name="React_Simple_List" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="React_Simple_List" type="b2602c69:ProjectViewProjectNode" />
+              <item name="React_Simple_List" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="React_Simple_List" type="b2602c69:ProjectViewProjectNode" />
+              <item name="React_Simple_List" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="molecule" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="React_Simple_List" type="b2602c69:ProjectViewProjectNode" />
+              <item name="React_Simple_List" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="organism" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="React_Simple_List" type="b2602c69:ProjectViewProjectNode" />
+              <item name="React_Simple_List" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="screen" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -226,15 +261,16 @@
       <workItem from="1560441190991" duration="109000" />
       <workItem from="1560441309433" duration="76000" />
       <workItem from="1560574484257" duration="13058000" />
-      <workItem from="1560653290487" duration="8545000" />
+      <workItem from="1560653290487" duration="9675000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22348000" />
+    <option name="totallyTimeSpent" value="23478000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="690" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2494043" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -392,13 +428,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
           <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="249">
-          <caret line="16" column="61" selection-start-line="16" selection-start-column="61" selection-end-line="16" selection-end-column="61" />
         </state>
       </provider>
     </entry>
@@ -588,6 +617,23 @@
           <folding>
             <element signature="e#0#31#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="61" lean-forward="true" selection-start-line="16" selection-start-column="61" selection-end-line="16" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="114">
+            <caret line="6" column="18" lean-forward="true" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
