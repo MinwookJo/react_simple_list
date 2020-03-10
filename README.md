@@ -1,9 +1,9 @@
 # 프로젝트 세팅
-* React 사용
-* css 로 스타일, 애니메이션 구현
-* Responsive UI 는 css 를 사용해 고려
-* 서버는 npm 에 json-server 외부 라이브러리 로 mock 서버를 사용
-* API 요청은 axios 외부 라이브러리를 사용하여 구현함
+* React 사용  
+* css 로 스타일, 애니메이션 구현  
+* Responsive UI 는 css 를 사용해 고려  
+* 서버는 npm 에 json-server 외부 라이브러리 로 mock 서버를 사용  
+* API 요청은 axios 외부 라이브러리를 사용하여 구현함 
 * Typescript 를 사용함
 * UI 테스트(story book, selenium 등)와 통합테스트는 구현되있지 않음
 
